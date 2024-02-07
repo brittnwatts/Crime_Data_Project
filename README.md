@@ -17,49 +17,37 @@ Team Members:
   Lyane Batchi
 
 Data Source
-  1.	Crime Data Explorer API:
-
-  •	The primary data source is the Crime Data Explorer API from https://api.usa.gov/crime/fbi/cde/.
-  3. 	Endpoint for Agency Data: 
-
-  • The agency endpoint is used to retrieve agency data based on the state abbreviation ("NC" for North Carolina).
-   5.	Endpoint for Crime Data:
-    
-  •	The summarized/agency endpoint is used to retrieve summarized crime data for each agency. 
-  •	The offense type, start year, and end year are specified.
+  1.	Crime Data Explorer API: The primary data source is the Crime Data Explorer API from https://api.usa.gov/crime/fbi/cde/.
+  2. 	Endpoint for Agency Data: The agency endpoint is used to retrieve agency data based on the state abbreviation ("NC" for North Carolina).
+  3.	Endpoint for Crime Data: The summarized/agency endpoint is used to retrieve summarized crime data for each agency. 	The offense type, start year, and end year are specified.
 
 Data Analysis:
-  1.	Looping Through Agencies: 
-    •	The script iterates through the list of agencies obtained and constructs URLs to fetch crime data for each agency.
-  2.	Creating DataFrames:
-    •	The script creates a pandas DataFrame (crime_df) to store the crime data obtained from each agency.
-  3.	Merging DataFrames: 
-    •	The script merges the agency data DataFrame (agency_df) and the crime data DataFrame (crime_df) based on the common          key 'ori'.
-  4.	Output:
-    •	The merged DataFrame (merge_df) is saved to a CSV file in the "Output" directory.
+  1.	Looping Through Agencies: The script iterates through the list of agencies obtained and constructs URLs to fetch crime data for each agency.
+  2.	Creating DataFrames: The script creates a pandas DataFrame (crime_df) to store the crime data obtained from each agency.
+  3.	Merging DataFrames: The script merges the agency data DataFrame (agency_df) and the crime data DataFrame (crime_df) based on the common key 'ori'.
+  4.	Output: The merged DataFrame (merge_df) is saved to a CSV file in the "Output" directory.
   5.	Potential Analysis:
-    •	Analysis of Violent Crimes by agency types
-    •	Crime Density Among different agencies
-    •	Analysis top 10 counties with crime count
-    •	Total crime committed and solved over 10 years
+     	Analysis of Violent Crimes by agency types,
+     	Crime Density Among different agencies,
+     	Analysis top 10 counties with crime count,
+     	Total crime committed and solved over 10 years
 
 Technologies Used
-  1.	Programming Language:
-    •	Python
+  1.	Programming Language: Python
   2.	Libraries and Modules:
-    •	Requests: For making HTTP requests to the Crime Data Explorer API.
-    •	Pandas: For data manipulation and analysis.
-    •	NumPy: For numerical operations and array manipulations.
-    •	JSON: Part of the Python standard library, used for handling JSON data.
-    •	PPrint: Part of the Python standard library, used for pretty-printing data structures.
-  3.	API:
-    •	Crime Data Explorer API: The primary data source for crime data in North Carolina.
-  4.	Integrated Development Environment (IDE):
-    •	Jupyter Notebook: Used for writing, testing, and debugging the Python script.
-  5.	Version Control:
-    •	Git: Used for version control and collaborative development.
-  6.	Project Documentation:
-    •	README.md: For project documentation and instructions.
+      Requests: For making HTTP requests to the Crime Data Explorer API,
+     	Pandas: For data manipulation and analysis,
+     	NumPy: For numerical operations and array manipulations,
+     	JSON: Part of the Python standard library, used for handling JSON data,
+     	PPrint: Part of the Python standard library, used for pretty-printing data structures.
+  4.	API:
+     	Crime Data Explorer API: The primary data source for crime data in North Carolina.
+  5.	Integrated Development Environment (IDE):
+     	Jupyter Notebook: Used for writing, testing, and debugging the Python script.
+  6.	Version Control:
+     	Git: Used for version control and collaborative development.
+  7.	Project Documentation:
+     	README.md: For project documentation and instructions.
 
 Results
 Analysis of Violent Crimes by agency type
