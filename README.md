@@ -71,7 +71,7 @@ Analysis of total crimes committed over years
 solve rate here
 
  ![image](https://github.com/brittnwatts/Project_1/assets/150114216/4771bcce-8287-4e63-8045-b221f5f4cd45)
- ![image](https://unccvirtdatap-bam8101.slack.com/files/U0683LHCZ6F/F06HKNWUFDG/screenshot__64_.png)
+ ![image](https://github.com/brittnwatts/Project_1/blob/c617c1290a58c1e1399ff1826d542baee4749458/solve_rate.png)
 
 Conclusions
 
