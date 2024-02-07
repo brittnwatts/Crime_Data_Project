@@ -53,7 +53,7 @@ Results
 Analysis of Violent Crimes by agency type
 
 ![image](https://github.com/brittnwatts/Project_1/assets/150114216/b156878e-d674-4db7-bec3-e5f73d6a1da0)
-
+![image](https://github.com/brittnwatts/Project_1/blob/cc5a80c0871b17cbb752703a871500d6471e06d7/Output/ashleigh-line.png)
 
 Crime Dentsity among different agencies
  
@@ -70,6 +70,6 @@ Analysis of total crimes committed over years
 
 solve rate here
 
- 
+ ![image](https://github.com/brittnwatts/Project_1/assets/150114216/4771bcce-8287-4e63-8045-b221f5f4cd45)
 
 Conclusions
