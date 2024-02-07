@@ -18,10 +18,13 @@ Team Members:
 
 Data Source
   1.	Crime Data Explorer API:
-    •	The primary data source is the Crime Data Explorer API from https://api.usa.gov/crime/fbi/cde/.
-  2.	Endpoint for Agency Data: 
-    •	The agency endpoint is used to retrieve agency data based on the state abbreviation ("NC" for North Carolina).
-  3.	Endpoint for Crime Data: 
+     
+     •	The primary data source is the Crime Data Explorer API from https://api.usa.gov/crime/fbi/cde/.
+  2. 	Endpoint for Agency Data:
+     
+    • The agency endpoint is used to retrieve agency data based on the state abbreviation ("NC" for North Carolina).
+   3.	Endpoint for Crime Data:
+      
     •	The summarized/agency endpoint is used to retrieve summarized crime data for each agency. 
     •	The offense type, start year, and end year are specified.
 
@@ -76,6 +79,7 @@ Analysis of top 10 and top county wrt crime count
 Analysis of total crimes committed over years
  
 ![image](https://github.com/brittnwatts/Project_1/assets/150114216/1b7c1ca0-7fe9-4a0b-9c33-5fafb2733acc)
+
 solve rate here
 
  
