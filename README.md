@@ -62,7 +62,7 @@ Crime Dentsity among different agencies
 Analysis of top 10 and top county wrt crime count
  
 ![image](https://github.com/brittnwatts/Project_1/assets/150114216/58b757ba-350f-49cc-8ad7-bcf6cdfba443)
-
+![image](https://github.com/brittnwatts/Project_1/assets/150114216/7c1dd360-25f7-4626-bccd-06f5f2c62af3)
 
 Analysis of total crimes committed over years
  
@@ -71,5 +71,12 @@ Analysis of total crimes committed over years
 solve rate here
 
  ![image](https://github.com/brittnwatts/Project_1/assets/150114216/4771bcce-8287-4e63-8045-b221f5f4cd45)
+ ![image](https://unccvirtdatap-bam8101.slack.com/files/U0683LHCZ6F/F06HKNWUFDG/screenshot__64_.png)
 
 Conclusions
+
+1. From the first graph, the analysis of violent crimes by agency type, we can see that "City" agencies account for ~ 77% of violent crimes committed and ~ 73% of all solved. From this graph, we can also see that "County" agencies have the second most number of actual and cleared crimes.
+2. From the Crime Density Map, we are able to see all of the individual agencies in the state and their crime rates relative to each other in the form of colored markers. The larger and darker the marker, the more crime. We observe that Agency with the largest marker and number of crimes is the Charlotte-Mecklenburg Police Department. The runner-ups are in order: Raleigh, Durham, Greensboro, Winston-Salem, Fayetteville
+3. In the graph that analyzes the top 10 counties' crimes, we observed that Mecklenburg County as a whole, has the most crime in NC over the 10 year period. Mecklenburg county has highest number of cleared crimes as well but the cleared crimes are only ~41% of the total crimes. The runner-ups are in order: Forsyth County, Guilford County, Cumberland County.
+4. In the Mecklenburg County graph, we see that there is a steep increase in crimes from 2019 to 2020 when it was COVID time, however cleared crime totals only increased a small amount relative to the normal cleared rate for Mecklenburg County.
+5. In the Total Crimes Committed and Solved Over Time Graph, we can see that crime has steadily increased over the years 2013-2020. From 2020 to 2022, the actual crime counts have dropped. Finally, we have a Solve Rate Per Year Graph that shows us the percentages of crimes cleared for crimes committed over the same 10-year period. We see here that the rate of crimes solved has significantly decreased over the 10-year period consistently. 
