@@ -70,7 +70,7 @@ Analysis of total crimes committed over years
 
 Solve Rate Over Years 2013-2022
 
- ![image](https://github.com/brittnwatts/Project_1/blob/c617c1290a58c1e1399ff1826d542baee4749458/solve_rate.png)
+ ![image](https://github.com/brittnwatts/Project_1/blob/89bff2d39febd671c784ea2add9060a080693d7c/Output/solve_rate.png)
 
 Conclusions
 
